@@ -17,6 +17,9 @@ I'm a  developer passionate about open-source projects and community collaborati
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![C Language](https://img.shields.io/badge/Language-C-blue?style=flat)
+![WordPress Language](https://img.shields.io/badge/WordPress-en-0073aa?style=flat&logo=wordpress)
+
 
 
 
