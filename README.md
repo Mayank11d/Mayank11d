@@ -10,13 +10,13 @@ I'm a  developer passionate about open-source projects and community collaborati
 - ⚡ Fun fact: I love Playing Badminton 
 
 ## My Skills
-JavaScript
-Python
-React
-HTML
-CSS
-Wordpress
-Data Structures and Algorithms
+JavaScript ,
+Python ,
+React ,
+HTML ,
+CSS ,
+Wordpress ,
+Data Structures and Algorithms ,
 C/C++
 
 
