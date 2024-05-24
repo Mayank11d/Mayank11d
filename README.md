@@ -10,7 +10,7 @@ I'm a  developer passionate about open-source projects and community collaborati
 - ⚡ Fun fact: I love Playing Badminton 
 
 ## My Skills
-JavaScript ,
+JavaScript (https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black),
 Python ,
 React ,
 HTML ,
