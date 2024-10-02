@@ -1,10 +1,9 @@
 # Hi there, I'm Mayank Dhimmar 👋
 
 ## About Me
-I'm a developer passionate about open-source projects and community collaboration. I enjoy working with **JavaScript, Python, HTML, CSS,** and **WordPress** technologies.
+I'm a developer passionate about open-source projects and community collaboration. I enjoy working with **JavaScript, Python, HTML, CSS,** and many other technologies.
 
 - 🔭 I’m currently working on **Kisansetu**, a tool for automating deployments.
-- 🌱 I’m currently learning **WordPress** and **React.js**.
 - 👯 I’m looking to collaborate on any open-source project that involves web development.
 - 📫 How to reach me: [mayankdhimmar300@gmail.com](mailto:mayankdhimmar300@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mayank-dhimmar-4895b7235/)
 
@@ -30,37 +29,8 @@ I'm a developer passionate about open-source projects and community collaboratio
 
 ---
 
-## 🛠️ Projects
 
-### [Kisansetu](https://github.com/Mayank11d/Kisansetu)
-- Tech Stack: HTML, CSS, Bootstrap, JavaScript, MongoDB
-- Description: Developed a basic web application using HTML and Bootstrap for frontend, implemented backend functionality using JavaScript, and handled the database with MongoDB.
 
-### [Password Generator](https://github.com/Mayank11d/Password-Generator)
-- Tech Stack: HTML, CSS, JavaScript, React
-- Description: A secure password generator with customizable length and complexity options. Designed a user-friendly interface for an intuitive experience.
-
----
-
-## 🎓 Education
-
-- **Computer Engineering**, Parul University, Vadodara, Gujarat  
-  _2021 - 2025 (Currently Pursuing)_  
-  CGPA: 7.70
-
-- **Higher Secondary Education**, A B School, Chikhali, Gujarat  
-  _Percentage: 90.11%_  
-
----
-
-## 🏆 Certifications
-
-- Web Development - Infosys Springboard
-- Fundamentals of Java Programming - Infosys Springboard
-- Data Analytics with Python - Swayam NPTEL (IIT-Roorkee)
-- C Language - Parul University
-
----
 
 ## 📊 GitHub Stats
 
@@ -68,12 +38,6 @@ I'm a developer passionate about open-source projects and community collaboratio
 
 ---
 
-## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/mayank-dhimmar-4895b7235/in/)
-- [GitHub](https://github.com/Mayank11d)
-- [LeetCode](https://leetcode.com/mayankdhimmar300/)
-
----
 
 Feel free to check out my projects and connect with me!
