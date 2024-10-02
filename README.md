@@ -7,7 +7,7 @@ I'm a  developer passionate about open-source projects and community collaborati
 - 🌱 I’m currently learning about Wordpress and React.js.
 - 👯 I’m looking to collaborate on any open-source project that involves web development.
 - 📫 How to reach me: [mayankdhimmar300@gmail.com](mailto:mayankdhimmar300@.com) | [LinkedIn](https://www.linkedin.com/in/mayank-dhimmar-4895b7235/)
-- ⚡ Fun fact: I love Playing Badminton 
+
 
 ## My Skills
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
