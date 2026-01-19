@@ -30,24 +30,12 @@ I focus on combining **frontend design**, **backend logic**, and **workflow auto
 
 ## 🛠️ Tech Stack
 
-### Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,materialui" alt="Frontend" />
-</p>
 
-### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,py" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,py,react,nodejs,express,mongodb,mysql" alt="Tech Stack" />
 </p>
-
-### Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,mongoose" alt="Database" />
-</p>
-
-### Tools & Others
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=mongoose,html,css,tailwind,materialui,git,github,vscode,postman" alt="Tech Stack" />
 </p>
 
 ---
