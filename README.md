@@ -1,57 +1,59 @@
-# Hi there, I'm Mayank Dhimmar 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=70&color=FFFFFF&center=true&vCenter=true&width=600&height=150&lines=MAYANK%20DHIMMAR&repeat=false&runonce=true" alt="Mayank Dhimmar" />
+</p>
 
-## About Me
-I’m a **Full-Stack Web Developer** with hands-on experience building responsive and scalable web applications and backend services. I enjoy working on real-world projects, workflow automation, and collaborating in version-controlled environments.
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack%20Web%20Developer-7AA2F7?style=for-the-badge&labelColor=1A1B26" alt="Role" />
+  <img src="https://img.shields.io/badge/AI%20Automation%20Enthusiast-7AA2F7?style=for-the-badge&labelColor=1A1B26" alt="Specialty" />
+</p>
 
-- 🔭 Recently worked on **live production projects** during my Node.js internship at Griphhy  
-- 🤖 Built **AI-driven automation systems** using n8n, OpenAI, and MongoDB  
-- 🌱 Skilled in React.js, Node.js, Express.js, MongoDB, and full-stack web development  
+<p align="center">
+  <a href="https://github.com/Mayank11d">
+    <img src="https://img.shields.io/github/followers/Mayank11d?label=Follow%20the%20Journey&style=for-the-badge&color=7aa2f7&logo=github" />
+  </a>
+</p>
+
+---
+
+### ⚡ About Me
+I’m a **Full-Stack Web Developer** building responsive, scalable web apps and backend services. I focus on **AI-driven automation**, workflow integration, and real-world project development.
+
+- 🔭 Recently worked on live production projects during **Node.js internship at Griphhy**  
+- 🤖 Built **AI automation systems** using n8n, OpenAI, and MongoDB  
+- 🌱 Skilled in **React.js, Node.js, Express.js, MongoDB**, and full-stack development  
 - 📫 Reach me at: [mayankdhimmar300@gmail.com](mailto:mayankdhimmar300@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mayank-dhimmar-4895b7235/)
 
 ---
 
-## 🚀 Technical Skills
+### 🛠️ Technical Ecosystem
 
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
-### Frontend Technologies
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white)
-
-### Backend Technologies
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6F00)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000)
-
-### Automation & Integration
-![n8n](https://img.shields.io/badge/n8n-FF3E00?logo=n8n&logoColor=white)  
-![API](https://img.shields.io/badge/API-FF6F00?logo=swagger&logoColor=white)  
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)  
-![Webhooks](https://img.shields.io/badge/Webhooks-0099FF)  
-
-### Developer Tools
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,python,html,css,tailwind,materialui,git,github,vscode,n8n,openai" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+### 🚀 Featured Projects
 
-![Mayank Dhimmar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayank11d&show_icons=true&theme=radical)
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Multi-Channel AI Automation](#)** | AI system for WhatsApp, Email, and Chatbot with memory and intent detection. | `Node.js` `n8n` `OpenAI` `MongoDB` |
+| **[GreenCart](https://green-cart-fjmw.vercel.app/)** | Full-stack eCommerce app with product, cart, and order management. | `MERN` `Tailwind CSS` `Cloudinary` |
+| **[Kisansetu](https://kisan-setu.vercel.app/)** | Farmer-centric app with CRUD operations and interactive dashboards. | `React.js` `Material UI` `MongoDB` |
 
 ---
 
-Feel free to explore my projects and reach out for collaboration!
+### 📊 GitHub Metrics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mayank11d&show_icons=true&theme=radical" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank11d&layout=compact&theme=radical" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mayank-dhimmar-4895b7235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mayankdhimmar300@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://green-cart-fjmw.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
