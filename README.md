@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=80&pause=1000&color=00F7F4&center=true&vCenter=true&width=900&lines=MAYANK+DHIMMAR;%F0%9F%9A%80+FULL+STACK+DEVELOPER;%F0%9F%A4%96+AI+AUTOMATION" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MAYANK%20DHIMMAR&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full-Stack%20Web%20Developer-1ABC9C?style=for-the-badge&logo=react" />
