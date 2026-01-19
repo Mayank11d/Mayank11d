@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MAYANK%20DHIMMAR&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00F7F4,100:B76CFD&height=200&section=header&text=MAYANK%20DHIMMAR&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </p>
 
 <p align="center">
