@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=56&color=FFFFFF&center=true&vCenter=true&width=900&height=120&lines=MAYANK%20DHIMMAR" alt="Mayank Dhimmar" />
-</p>
-
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=00F7F4&center=true&vCenter=true&width=600&height=100&lines=MAYANK+DHIMMAR;Full+Stack+Developer;AI+Automation+Expert" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full-Stack%20Web%20Developer-1ABC9C?style=for-the-badge&logo=react" />
