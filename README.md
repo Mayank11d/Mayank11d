@@ -33,33 +33,27 @@ I focus on combining **frontend design**, **backend logic**, and **workflow auto
 
 ---
 
-### 🚀 Featured Projects
+## 🧩 Projects
 
-<div align="center">
+### 🔹 Multi-Channel AI Response Automation
+**Tech:** n8n, Node.js, MongoDB, OpenAI, Qdrant  
+- Built a multi-channel AI system for WhatsApp, Email, and Chatbot platforms  
+- Implemented short-term and long-term conversation memory using MongoDB & Qdrant vector store  
+- Integrated AI agents for intent detection, booking management, slot availability checks, and automated responses  
 
-<div style="display:flex; flex-direction:column; gap:15px; max-width:700px; margin:auto;">
+### 🔹 GreenCart – eCommerce Web Application
+**Tech:** MERN Stack, Cloudinary, Tailwind CSS  
+- Developed full-stack eCommerce application with user authentication, product listing, cart, and order management  
+- Designed RESTful APIs and responsive frontend components  
 
-**💡 Multi-Channel AI Automation**  
-> AI system handling WhatsApp, Email, and Chatbot platforms with memory and automated responses.  
-<span style="background:#FF6F61; color:white; padding:2px 6px; border-radius:5px;">Node.js</span>
-<span style="background:#FF3E00; color:white; padding:2px 6px; border-radius:5px;">n8n</span>
-<span style="background:#412991; color:white; padding:2px 6px; border-radius:5px;">OpenAI</span>
-<span style="background:#47A248; color:white; padding:2px 6px; border-radius:5px;">MongoDB</span>
+**Link:** [GreenCart](https://green-cart-fjmw.vercel.app/)
 
-**💡 [GreenCart](https://green-cart-fjmw.vercel.app/)**  
-> Full-stack eCommerce platform with product management, cart, and orders.  
-<span style="background:#764ABC; color:white; padding:2px 6px; border-radius:5px;">MERN</span>
-<span style="background:#38BDF8; color:white; padding:2px 6px; border-radius:5px;">Tailwind CSS</span>
-<span style="background:#F29111; color:white; padding:2px 6px; border-radius:5px;">Cloudinary</span>
+### 🔹 Kisansetu – Farmer-Centric Application
+**Tech:** React.js, Material UI, MongoDB  
+- Built web application for farmers with CRUD operations and interactive components  
+- Visualized GitHub data to demonstrate collaboration  
 
-**💡 [Kisansetu](https://kisan-setu.vercel.app/)**  
-> Farmer-centric application with CRUD operations and interactive dashboards.  
-<span style="background:#61DAFB; color:black; padding:2px 6px; border-radius:5px;">React.js</span>
-<span style="background:#007FFF; color:white; padding:2px 6px; border-radius:5px;">Material UI</span>
-<span style="background:#47A248; color:white; padding:2px 6px; border-radius:5px;">MongoDB</span>
-
-</div>
-</div>
+**Link:** [Kisansetu](https://kisan-setu.vercel.app/)
 
 ---
 
