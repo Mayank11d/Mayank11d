@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MAYANK%20DHIMMAR&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=70&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=%3E+MAYANK_DHIMMAR;%3E+INITIALIZING...;%3E+SYSTEM_READY" alt="Matrix Style" />
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full-Stack%20Web%20Developer-1ABC9C?style=for-the-badge&logo=react" />
