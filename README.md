@@ -1,10 +1,21 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=60&color=FFFFFF&center=true&vCenter=true&width=700&height=120&lines=MAYANK%20DHIMMAR" alt="Mayank Dhimmar" />
+  <img 
+    src="https://readme-typing-svg.demolab.com
+    ?font=Press+Start+2P
+    &size=60
+    &color=FFFFFF
+    &center=true
+    &vCenter=true
+    &width=900
+    &height=120
+    &lines=MAYANK%20DHIMMAR" 
+    alt="Mayank Dhimmar" />
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full-Stack%20Web%20Developer-1ABC9C?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/AI%20Automation-Enthusiast-9B59B6?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/AI%20Automation-9B59B6?style=for-the-badge&logo=openai" />
 </p>
 
 <p align="center">
