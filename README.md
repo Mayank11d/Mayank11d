@@ -35,40 +35,16 @@ I’m a **Full-Stack Web Developer** with hands-on experience building responsiv
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000)
 
 ### Automation & Integration
-- n8n Workflow Automation  
-- API Integrations  
-- AI Agents (OpenAI)  
-- Webhooks & Event-driven flows  
+![n8n](https://img.shields.io/badge/n8n-FF3E00?logo=n8n&logoColor=white)  
+![API](https://img.shields.io/badge/API-FF6F00?logo=swagger&logoColor=white)  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)  
+![Webhooks](https://img.shields.io/badge/Webhooks-0099FF)  
 
 ### Developer Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
-
----
-
-## 🧩 Projects
-
-### 🔹 Multi-Channel AI Response Automation
-**Tech:** n8n, Node.js, MongoDB, OpenAI, Qdrant  
-- Built a multi-channel AI system for WhatsApp, Email, and Chatbot platforms  
-- Implemented short-term and long-term conversation memory using MongoDB & Qdrant vector store  
-- Integrated AI agents for intent detection, booking management, slot availability checks, and automated responses  
-
-### 🔹 GreenCart – eCommerce Web Application
-**Tech:** MERN Stack, Cloudinary, Tailwind CSS  
-- Developed full-stack eCommerce application with user authentication, product listing, cart, and order management  
-- Designed RESTful APIs and responsive frontend components  
-
-**Link:** [GreenCart](https://green-cart-fjmw.vercel.app/)
-
-### 🔹 Kisansetu – Farmer-Centric Application
-**Tech:** React.js, Material UI, MongoDB  
-- Built web application for farmers with CRUD operations and interactive components  
-- Visualized GitHub data to demonstrate collaboration  
-
-**Link:** [Kisansetu](https://kisan-setu.vercel.app/)
 
 ---
 
