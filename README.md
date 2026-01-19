@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=60&color=FFFFFF&center=true&vCenter=true&width=600&height=120&lines=MAYANK%20DHIMMAR" alt="Mayank Dhimmar" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=60&color=FFFFFF&center=true&vCenter=true&width=650&height=120&lines=MAYANK%20DHIMMAR" alt="Mayank Dhimmar" />
 </p>
 
 <p align="center">
@@ -16,10 +16,10 @@
 ---
 
 ### 🌟 About Me
-I build **scalable web applications** and **AI-powered automation systems**. I enjoy bridging the gap between **frontend design**, **backend logic**, and **real-world workflow automation**.
+Hi, I’m **Mayank Dhimmar**, a Full-Stack Web Developer building **scalable web applications** and **AI-powered automation systems**. I focus on combining **frontend design**, **backend logic**, and **workflow automation** to solve real-world problems.
 
-- 🔹 Worked on live production projects during **Node.js internship at Griphhy**  
-- 🔹 Built **AI-driven automation** with n8n, OpenAI, MongoDB  
+- 🔹 Live production experience during **Node.js internship at Griphhy**  
+- 🔹 Built **AI automation systems** with n8n, OpenAI, MongoDB  
 - 🔹 Skilled in **React.js, Node.js, Express.js, MongoDB**, and full-stack development  
 - 📫 Reach me: [mayankdhimmar300@gmail.com](mailto:mayankdhimmar300@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mayank-dhimmar-4895b7235/)
 
@@ -33,31 +33,31 @@ I build **scalable web applications** and **AI-powered automation systems**. I e
 
 ---
 
-### 🚀 Projects Highlights
+### 🚀 Featured Projects
 
 <div align="center">
 
-**Multi-Channel AI Automation**  
+**💡 Multi-Channel AI Automation**  
 AI system handling WhatsApp, Email, and Chatbot platforms with memory and automated responses.  
-`Node.js` `n8n` `OpenAI` `MongoDB`  
+<span style="font-size:0.9rem">`Node.js` `n8n` `OpenAI` `MongoDB`</span>  
 
-**[GreenCart](https://green-cart-fjmw.vercel.app/)**  
+**💡 [GreenCart](https://green-cart-fjmw.vercel.app/)**  
 Full-stack eCommerce platform with product management, cart, and orders.  
-`MERN` `Tailwind CSS` `Cloudinary`  
+<span style="font-size:0.9rem">`MERN` `Tailwind CSS` `Cloudinary`</span>  
 
-**[Kisansetu](https://kisan-setu.vercel.app/)**  
+**💡 [Kisansetu](https://kisan-setu.vercel.app/)**  
 Farmer-centric application with CRUD operations and interactive dashboards.  
-`React.js` `Material UI` `MongoDB`  
+<span style="font-size:0.9rem">`React.js` `Material UI` `MongoDB`</span>  
 
 </div>
 
 ---
 
-### 📊 GitHub Insights
+### 📊 GitHub Stats
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Mayank11d&show_icons=true&theme=radical" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank11d&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mayank11d&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank11d&layout=compact&theme=radical" />
 </p>
 
 ---
