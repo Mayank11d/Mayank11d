@@ -34,6 +34,10 @@ I focus on combining **frontend design**, **backend logic**, and **workflow auto
   <img src="https://skillicons.dev/icons?i=js,ts,java,py,react,nodejs,express,mongodb,mysql,mongoose,html,css,tailwind,materialui,git,github,vscode,postman" alt="Tech Stack" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+</p>
 
 ---
 
