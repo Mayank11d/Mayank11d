@@ -64,5 +64,5 @@ Farmer-centric application with CRUD operations and interactive dashboards.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mayank-dhimmar-4895b7235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://green-cart-fjmw.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:mayankdhimmar300@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
