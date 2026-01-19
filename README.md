@@ -29,12 +29,15 @@ I focus on combining **frontend design**, **backend logic**, and **workflow auto
 ---
 
 ## 🛠️ Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,java,py,react,nodejs,express,mongodb,mysql,html,css,tailwind,materialui,git,github,vscode,postman" alt="Tech Stack" />
 </p>
 
-**Additional Tools:** Mongoose • n8n • OpenAI
+<p align="center">
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+</p>
 
 ---
 
