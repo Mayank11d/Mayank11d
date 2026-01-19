@@ -31,7 +31,7 @@ I focus on combining **frontend design**, **backend logic**, and **workflow auto
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python,react,nodejs,express,mongodb,mysql,mongoose,html,css,tailwind,materialui,git,github,vscode,n8n,openai,postman" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,py,react,nodejs,express,mongodb,mysql,html,css,tailwind,materialui,git,github,vscode,postman" alt="Tech Stack" />
 </p>
 
 
