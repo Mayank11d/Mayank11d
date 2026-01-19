@@ -33,27 +33,13 @@ I focus on combining **frontend design**, **backend logic**, and **workflow auto
 
 ---
 
-## 🧩 Projects
+### 🚀 Featured Projects
 
-### 🔹 Multi-Channel AI Response Automation
-**Tech:** n8n, Node.js, MongoDB, OpenAI, Qdrant  
-- Built a multi-channel AI system for WhatsApp, Email, and Chatbot platforms  
-- Implemented short-term and long-term conversation memory using MongoDB & Qdrant vector store  
-- Integrated AI agents for intent detection, booking management, slot availability checks, and automated responses  
-
-### 🔹 GreenCart – eCommerce Web Application
-**Tech:** MERN Stack, Cloudinary, Tailwind CSS  
-- Developed full-stack eCommerce application with user authentication, product listing, cart, and order management  
-- Designed RESTful APIs and responsive frontend components  
-
-**Link:** [GreenCart](https://green-cart-fjmw.vercel.app/)
-
-### 🔹 Kisansetu – Farmer-Centric Application
-**Tech:** React.js, Material UI, MongoDB  
-- Built web application for farmers with CRUD operations and interactive components  
-- Visualized GitHub data to demonstrate collaboration  
-
-**Link:** [Kisansetu](https://kisan-setu.vercel.app/)
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Multi-Channel AI Automation](#)** | AI system for WhatsApp, Email, and Chatbot with memory and intent detection. | `Node.js` `n8n` `OpenAI` `MongoDB` |
+| **[GreenCart](https://green-cart-fjmw.vercel.app/)** | Full-stack eCommerce app with product, cart, and order management. | `MERN` `Tailwind CSS` `Cloudinary` |
+| **[Kisansetu](https://kisan-setu.vercel.app/)** | Farmer-centric app with CRUD operations and interactive dashboards. | `React.js` `Material UI` `MongoDB` |
 
 ---
 
