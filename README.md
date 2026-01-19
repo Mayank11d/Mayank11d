@@ -1,16 +1,7 @@
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com
-    ?font=Press+Start+2P
-    &size=60
-    &color=FFFFFF
-    &center=true
-    &vCenter=true
-    &width=900
-    &height=120
-    &lines=MAYANK%20DHIMMAR" 
-    alt="Mayank Dhimmar" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=56&color=FFFFFF&center=true&vCenter=true&width=900&height=120&lines=MAYANK%20DHIMMAR" alt="Mayank Dhimmar" />
 </p>
+
 
 
 <p align="center">
