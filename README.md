@@ -1,7 +1,5 @@
-<h1 align="center">M A Y A N K &nbsp;&nbsp; D H I M M A R</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/FULL_STACK_DEVELOPER-00F7F4?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_AUTOMATION-B76CFD?style=for-the-badge&logoColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MAYANK%20DHIMMAR&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </p>
 
 <p align="center">
